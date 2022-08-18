@@ -1,1 +1,1 @@
-Renaming new meraki APs with the old Aerohive APs name. Part of the onboarding process.
+MIgrating existing Extreme APs to Meraki Cloud.
