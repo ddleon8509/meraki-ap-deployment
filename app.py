@@ -60,7 +60,7 @@ def process_files():
 
 def main():
 	inventory = []
-
+	process_files()
 	with open('meraki.csv', 'r') as merakiData:
 	csvReader = csv.reader(merakiData, delimiter = ',')
 	lineCount = 0
